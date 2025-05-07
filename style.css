@@ -1,37 +1,29 @@
 body {
   margin-top: 5%;
   font-family: 'Proxima Nova', sans-serif;
-  letter-spacing: 0.25px;
+  letter-spacing: 0.55px;
   color: #0d1b2a;
 }
 
 th {
   text-align: right;
   font-variant: small-caps;
-  font-size: 11px;
-}
-
-td {
-  font-size: 11px;
 }
 
 h1 {
   font-size: x-large;
   font-weight: normal;
-  font-size: 17px;
 }
 
 h2 {
   font-size: large;
   font-weight: normal;
-  font-size: 11px;
 }
 
 h3 {
   font-size: small;
   font-weight: normal;
   font-style: italic;
-  font-size: 8px;
 }
 
 a:link {
