@@ -1,0 +1,39 @@
+th {
+   text-align: right;
+   font-variant: small-caps;
+   font-family: 'garamond', serif;
+   font-size: large;
+}
+
+body {
+   margin-top: 5%;
+   font-family: 'Roboto', serif;
+   font-family: 'Jost', sans-serif;
+   /* font-size: 48px; */
+}
+
+h1 {
+   font-size: x-large;
+   font-weight: normal;
+}
+
+h2 {
+   font-size: large;
+   font-weight: normal;
+}
+
+h3 {
+   font-size: small;
+   font-weight: normal;
+   font-style: italic;
+}
+
+a:link {
+   color: #385c42;
+   text-decoration: none;
+}
+
+a:visited {
+   color: #385c42;
+   text-decoration: none;
+}
